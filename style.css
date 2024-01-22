@@ -52,8 +52,8 @@ li{
 #main{
   float: left;
   width: var(--main-width);
-  padding: 0.25in 0.25in 0 0.25in;
-  font-size: 7pt;
+  padding: 0.2in 0.2in 0 0.2in;
+  font-size: 7.5pt;
 }
 
 #sidebar{
@@ -76,7 +76,7 @@ li{
 #title{
   position: relative;
   left: 0.55in;
-  margin-bottom: 0.3in;
+  margin-bottom: 0.2in;
   line-height: 1.2;
 }
 
